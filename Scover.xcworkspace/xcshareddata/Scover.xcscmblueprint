@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0FF2C3D397CF55790AE0DDD08976B9C830126CD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0FF2C3D397CF55790AE0DDD08976B9C830126CD2" : 9223372036854775807,
+    "07428E5688A93F9D899A8C87C22FF831A7E2793B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE6AC6AD-E041-427E-8239-76CEDFC397B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0FF2C3D397CF55790AE0DDD08976B9C830126CD2" : "scover-ios\/",
+    "07428E5688A93F9D899A8C87C22FF831A7E2793B" : "scover-ios\/HandyJSON\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Scover",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Scover.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alibaba\/HandyJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07428E5688A93F9D899A8C87C22FF831A7E2793B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fus33e\/scover-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FF2C3D397CF55790AE0DDD08976B9C830126CD2"
+    }
+  ]
+}

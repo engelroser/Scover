@@ -1,0 +1,201 @@
+"SIGN_IN"   = "Sign In";
+"SIGN_UP"   = "Sign Up";
+"LOGIN_F"   = "Connect with Facebook";
+"LOGIN_G"   = "Connect with Google";
+"TROUBLE"   = "Having trouble signing in?";
+"AGREE"     = "By signing up, you agree to our Terms & Conditions";
+"HINT_MAIL" = "Email Address";
+"HINT_PASS" = "Password";
+"HINT_CONF" = "Confirm Password";
+"HINT_NAME" = "First and Last Name";
+"HINT_AUTO" = "Auto Generated First Initial & Last Name";
+
+"FORGET_PASS_BOT"   = "RETURN TO LOGIN";
+"FORGET_PASS_TITLE" = "TROUBLE LOGGING IN?";"FORGET_PASS_HINT"  = "Enter your email address below and\nwe’ll send you a password reset link\nto recover your account!";
+
+"WELCOME_TITLE"     = "WELCOME";
+"NEWS_TODAY_NAME"   = "Scover Today";
+"NEWS_REC_NAME"     = "Recommended";
+"NEWS_UP_NAME"      = "Upcoming";
+
+"TODAY"       = "Today";
+"UPCOMMING"   = "Upcoming";
+"RECOMMENDED" = "Recommended";
+"SCOVER_REC"  = "Scover recommended this week";
+"HOLIDAYS"    = "Holidays";
+"PLACES"      = "Places";
+"CANCEL"      = "Cancel";
+"SEARCH_HINT" = "Search Keywords, Holidays and Dates";
+
+"HOLIDAY_LOCATIONS" = "Holiday Locations";
+"LOCATION_DETAILS"  = "Location Details";
+"MORE_PHOTOS"       = "More Photos";
+"LOCATION_INFO"     = "Location Info";
+"DIRECTIONS"        = "Directions";
+
+"PARAM_LIKES"    = "Likes";
+"PARAM_DISLIKES" = "Dislikes";
+"PARAM_CHECKINS" = "Check-ins";
+"PARAM_BOOKMARK" = "Bookmarks";
+
+"CHOSE_DAY" = "Choose a day to explore!";
+"SCOVER"    = "Scover";
+"FAVOR"     = "Favorites";
+
+"DAY_1"  = "SUN";
+"DAY_2"  = "MON";
+"DAY_3"  = "TUE";
+"DAY_4"  = "WED";
+"DAY_5"  = "THU";
+"DAY_6"  = "FRI";
+"DAY_7"  = "SAT";
+"SCOVER" = "Scover";
+
+"WEEKDAY_1" = "Sunday";
+"WEEKDAY_2" = "Monday";
+"WEEKDAY_3" = "Tuesday";
+"WEEKDAY_4" = "Wednesday";
+"WEEKDAY_5" = "Thursday";
+"WEEKDAY_6" = "Friday";
+"WEEKDAY_7" = "Saturday";
+
+"MONTH_1"   = "January";
+"MONTH_2"   = "February";
+"MONTH_3"   = "March";
+"MONTH_4"   = "April";
+"MONTH_5"   = "May";
+"MONTH_6"   = "June";
+"MONTH_7"   = "July";
+"MONTH_8"   = "August";
+"MONTH_9"   = "September";
+"MONTH_10"  = "October";
+"MONTH_11"  = "November";
+"MONTH_12"  = "December";
+
+"CONNECT_WITH_US" = "Connect with Us";
+"TODAYS_SPONSOR"  = "TODAY'S SPONSOR";
+
+"PHOTOS"    = "Photos";
+"CHECKINS"  = "Check-ins";
+"FOLLOWERS" = "Followers";
+"FOLLOWING" = "Following";
+
+"WAS_AT"    = " was at ";
+"FRIENDS"   = "Friends";
+"INVITE"    = "Invite";
+"SHARE"     = "Share";
+
+"CON_FB"    = "Connect through Facebook";
+"CON_CN"    = "Connect through your Contacts";
+"SHARE"     = "Share";
+
+"INCORRECT_NAMES"  = "Incorrect first & last names.\nCheck them please.";
+"INCORRECT_PASS"   = "Your password and confirmation does not match.";
+"INCORRECT_MAIL"   = "Incorrect email.\nCheck it please.";
+"ERROR_SIGNUP"     = "Can't create profile.\nTry again later, please.";
+"ERROR_SIGNIN"     = "Incorrect password/username.\nTry again later, please.";
+"INCORRECT_PARAMS" = "Incorrect email or password.\nTry again later, please.";
+"MAIL_EMPTY"       = "Email can't be empty.\nFill it please and try again.";
+
+"MAIL_RESTORED"        = "Restore link have been sent.\nCheck your email please.";
+"CANT_RESTORE"         = "Can't restore password.\nTry again later, please.";
+"EMPTY_EMAIL"          = "Can't restore password for this profile, i.e. this profile has no email.";
+"ERROR_LOAD_TODAY"     = "Can't load holidays.\nTry again later, please.";
+"ERROR_LOAD_UPCOMING"  = "Can't load holidays.\nTry again later, please.";
+"ERROR_LOAD_RECOM"     = "Can't load holidays.\nTry again later, please.";
+"HOLIDAYS_LOADING_ERR" = "Can't load holidays.\nTry again later, please.";
+
+"HOLIDAYS"       = "Holidays";
+"HOLIDAY"        = "Holiday";
+"NO_HOLIDAYS"    = "No Holidays";
+
+"SPONSOR_BY"     = "Sponsored by";
+"NO_HOLIDAYS"    = "NO HOLIDAYS";
+"REASONS"        = "AWESOME REASONS TO CELEBRATE!";
+"REASON"         = "AWESOME REASON TO CELEBRATE!";
+
+"NEAR_LOCATIONS"       = "locations near you!";
+"NEAR_LOCATION"        = "location near you!";
+"NO_LOCATION_NEAR"     = "No locations near you!";
+"CAN_GET_LOCATION"     = "Can't determine your\ncurrent location.";
+"PLACES_ERROR_LOADING" = "Can't load places.\nTry again later.";
+"CANT_DETECT_DISTANCE" = "Can't detect distance.";
+"MILES"                = "Miles";
+"MILE"                 = "Mile";
+
+"BOOKMARK_ADDED"       = "Successfully bookmarked.";
+"CANT_ADD_BOOKMARK"    = "Can't bookmark.\nTry again later.";
+"CANT_LOAD_BOOKMAKR"   = "Can't load bookmarks.\nTry again later.";
+"CANT_DELETE_BOOKMARK" = "Can't delete bookmark.\nTry again later.";
+"CANT_LOAD_HOLIDAYS"   = "Can't load holidays.";
+"CANT_LOAD_PLACES"     = "Can't load places.";
+"CANT_DETECT_LOCATION" = "Can't detect your current location.";
+
+"NO_HOLIDAYS"    = "No holidays";
+"HOLIDAY"        = "Holiday";
+"HOLIDAYS"       = "Holidays";
+
+"LIKE_ERROR"     = "Can't like place.\nTry again later.";
+"DISLIKE_ERROR"  = "Can't dislike place.\nTry again later.";
+"CANT_GET_PLACE" = "Can't retrieve place details.\nTry again later.";
+
+"NO_LIKES"          = "No likes";
+"NO_DISLIKES"       = "No dislikes";
+"NO_CHECKINS"       = "No check-ins";
+"NO_BOOKMARKS"      = "No bookmarks";
+"DIRECTIONS_TO"     = "Directions to:";
+"UNKNOWN"           = "Unknown";
+"OPEN_FROM"         = "Open from";
+"CANT_CHECKIN"      = "You can't check-in in this place.";
+"CHECKIN_ERROR"     = "Can't check-in in this place.";
+"CHECKIN_TOO_FAR"   = "You are too far from this place.";
+"CANT_GET_ROUTE"    = "Can't get route.";
+"ROUTE_TITLE"       = "Route";
+"PHOTO_LOAD_ERROR"  = "Can't load photos.\nTap to try again.";
+"ADD_PHOTO_MSG"     = "Add a new photo to the place.";
+"ADD_PHOTO_CANCEL"  = "Cancel";
+"ADD_PHOTO_CAMERA"  = "Take a new photo";
+"ADD_PHOTO_GALLERY" = "Select a photo";
+"CANT_UPLOAD_PHOTO" = "Can't upload photo.";
+"CANT_ALARM"        = "Can't create alarm for this holiday.";
+"ALARM_DONE"        = "Alarm for this holiday\nsuccessfully created.";
+"CANT_GET_PROFILE"  = "Can't get profile.\nTap to repeat.";
+
+"VIEW_HISTORY"    = "View Holiday History";
+"HOLIDAY_HISTORY" = "Holiday History";
+
+"SETTINGS"      = "Settings";
+"ACCOUNT_SEC"   = "Account";
+"RESET_PASS"    = "Reset password";
+"UPDATE_PIC"    = "Update profile picture";
+"LOGOUT"        = "Logout";
+"NOTIFICATIONS" = "Notifications";
+"PUSH_NOTIF"    = "Push Notifications";
+"SCOVER_SEC"    = "Scover";
+"SCOVER_ABOUT"  = "About";
+"SCOVER_INSPIR" = "Inspiration";
+"SUPPORT"       = "Support";
+"SUP_HELP"      = "Help Center";
+"SUP_REPORT"    = "Report a Problem";
+"SUP_PRIVACY"   = "Privacy Policy";
+"SUP_TERMS"     = "Terms of Use";
+
+"PROF_CHECKIN_ONE"  = "You have Scovered %d location!";
+"PROF_CHECKIN_MANY" = "You have Scovered %d locations!";
+"PROF_CHECKIN_NONE" = "You have not Scovered any locations!";
+
+"PROF_PHOTO"     = "%d photo";
+"PROF_PHOTOS"    = "%d photos";
+"PROF_NO_PHOTOS" = "No photos";
+"PROF_LIKE"      = "%d like";
+"PROF_LIKES"     = "%d likes";
+"PROF_NO_LIKES"  = "no likes";
+"TODAY"          = "Today";
+
+"PUSH_ENABLE_ERROR" = "Can't enable push notifications. Check your settings please.";
+
+"INVITE_MESSAGE"   = "Check this out http://www.scover.today";
+"CANT_GET_SPONSOR" = "Can't get sponsor.";
+"SHOW_SOME_LOVE"   = "SHOW SOME LOVE";
+"RETURN" = "RETURN";
+"CANT_LIKE_SPONSOR" = "Can't like sponsor.";
