@@ -2,7 +2,7 @@
 //  ProfileHeader.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 23/05/2017.
+//  Created by Mobile App Dev on 23/05/2017.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

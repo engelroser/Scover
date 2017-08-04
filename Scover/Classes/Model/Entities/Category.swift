@@ -2,7 +2,7 @@
 //  Category.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 30/05/2017.
+//  Created by Mobile App Dev on 30/05/2017.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

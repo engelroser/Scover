@@ -2,7 +2,7 @@
 //  HistoryVC.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 26/06/2017.
+//  Created by Mobile App Dev on 26/06/2017.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

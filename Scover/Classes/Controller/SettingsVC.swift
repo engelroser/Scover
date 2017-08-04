@@ -2,7 +2,7 @@
 //  SettingsVC.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 27/06/2017.
+//  Created by Mobile App Dev on 27/06/2017.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  SignInVC.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 4/17/17.
+//  Created by Mobile App Dev on 4/17/17.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  TodayVC.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 4/26/17.
+//  Created by Mobile App Dev on 4/26/17.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 

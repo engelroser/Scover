@@ -2,7 +2,7 @@
 //  PushSwitcher.swift
 //  Scover
 //
-//  Created by Kirill Kozhuhar on 28/06/2017.
+//  Created by Mobile App Dev on 28/06/2017.
 //  Copyright © 2017 Scover. All rights reserved.
 //
 
